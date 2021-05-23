@@ -1,0 +1,22 @@
+[
+  {
+    "material": "BONE",
+    "amount": 10000,
+    "localizedMaterial": "Кость"
+  },
+  {
+    "material": "HAY_BLOCK",
+    "amount": 15000,
+    "localizedMaterial": "Сноп сена"
+  },
+  {
+    "material": "EMERALD_BLOCK",
+    "amount": 25000,
+    "localizedMaterial": "Изумрудный блок"
+  },
+  {
+    "material": "NETHER_STAR",
+    "amount": 128,
+    "localizedMaterial": "Звезды ада"
+  }
+]
