@@ -11,12 +11,17 @@
   },
   {
     "material": "EMERALD_BLOCK",
-    "amount": 25000,
+    "amount": 1000,
     "localizedMaterial": "Изумрудный блок"
   },
   {
     "material": "NETHER_STAR",
     "amount": 128,
     "localizedMaterial": "Звезды ада"
+  },
+  {
+    "material": "BARRIER",
+    "amount": 1,
+    "localizedMaterial": "Барьер"
   }
 ]
