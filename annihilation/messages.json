@@ -20,6 +20,7 @@
   "annihilation.class.transporter.teleport": "&6Телепортатор",
   "annihilation.class.healer.heal": "&6Исцеление",
   "annihilation.class.goldenrush": "&6Золотая лихорадка",
+  "annihilation.enchanter.boosted": "&aВам повезло, зачарования предмета повышены на уровень выше.",
   "annihilation.breaknexus": "%s &fломает нексус %s",
   "annihilation.wingame": "&aПобедила команда %s",
   "annihilation.furnace.open": "&aВы открыли &6приватную &aпечку, содержимое которой доступно только вам.",
